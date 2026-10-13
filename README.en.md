@@ -47,6 +47,4 @@ To move tasks from the earlier HTML version or another Mac, select **Settings �
 
 ## License
 
-Official compiled releases may be used for personal, non-commercial purposes.
-
-Using, copying, modifying, building, redistributing, or commercially exploiting the source code—and redistributing the application itself—requires prior written permission from the copyright holder. See [LICENSE](LICENSE) for the complete terms.
+Released under the MIT License. Personal and commercial use, copying, modification, and redistribution are permitted. Retain the copyright notice and license text. See [LICENSE](LICENSE) for the complete terms.
